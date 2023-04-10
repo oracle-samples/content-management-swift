@@ -1,0 +1,177 @@
+{
+    "id": "CONTB287460359D04B3BAAA898006978B29E",
+    "type": "DigitalAsset",
+    "name": "action.png",
+    "description": "",
+    "createdDate": {
+        "value": "2020-04-07T18:54:57.951Z",
+        "timezone": "UTC"
+    },
+    "updatedDate": {
+        "value": "2020-04-19T15:17:44.562Z",
+        "timezone": "UTC"
+    },
+    "fields": {
+        "metadata": {
+            "width": "200",
+            "height": "200"
+        },
+        "size": 7853,
+        "native": {
+            "links": [{
+                "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/native/action.png?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                "rel": "self",
+                "method": "GET",
+                "mediaType": "image/png"
+            }]
+        },
+        "renditions": [{
+            "name": "Thumbnail",
+            "formats": [{
+                "format": "webp",
+                "size": 0,
+                "mimeType": "image/webp",
+                "metadata": {
+                    "width": "150",
+                    "height": "150"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Thumbnail/action.png?format=webp&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/webp"
+                }]
+            }, {
+                "format": "jpg",
+                "size": 4927,
+                "mimeType": "image/jpeg",
+                "metadata": {
+                    "width": "150",
+                    "height": "150"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Thumbnail/action.png?format=jpg&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            }],
+            "type": "responsiveimage"
+        }, {
+            "name": "Medium",
+            "formats": [{
+                "format": "jpg",
+                "size": 0,
+                "mimeType": "image/jpeg",
+                "metadata": {
+                    "width": "200",
+                    "height": "200"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Medium/action.png?format=jpg&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            }, {
+                "format": "webp",
+                "size": 0,
+                "mimeType": "image/webp",
+                "metadata": {
+                    "width": "200",
+                    "height": "200"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Medium/action.png?format=webp&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/webp"
+                }]
+            }],
+            "type": "responsiveimage"
+        }, {
+            "name": "Large",
+            "formats": [{
+                "format": "jpg",
+                "size": 0,
+                "mimeType": "image/jpeg",
+                "metadata": {
+                    "width": "200",
+                    "height": "200"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Large/action.png?format=jpg&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            }, {
+                "format": "webp",
+                "size": 0,
+                "mimeType": "image/webp",
+                "metadata": {
+                    "width": "200",
+                    "height": "200"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Large/action.png?format=webp&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/webp"
+                }]
+            }],
+            "type": "responsiveimage"
+        }, {
+            "name": "Small",
+            "formats": [{
+                "format": "jpg",
+                "size": 0,
+                "mimeType": "image/jpeg",
+                "metadata": {
+                    "width": "200",
+                    "height": "200"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Small/action.png?format=jpg&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }]
+            }, {
+                "format": "webp",
+                "size": 0,
+                "mimeType": "image/webp",
+                "metadata": {
+                    "width": "200",
+                    "height": "200"
+                },
+                "links": [{
+                    "href": "http://www.foo.com:2112/content/published/api/v1.1/assets/CONTB287460359D04B3BAAA898006978B29E/Small/action.png?format=webp&type=responsiveimage&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/webp"
+                }]
+            }],
+            "type": "responsiveimage"
+        }],
+        "mimeType": "image/png",
+        "version": "1",
+        "fileType": "png"
+    },
+    "links": [{
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONTB287460359D04B3BAAA898006978B29E?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONTB287460359D04B3BAAA898006978B29E?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+        "rel": "canonical",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/metadata-catalog/items/CONTB287460359D04B3BAAA898006978B29E?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+        "rel": "describedby",
+        "method": "GET",
+        "mediaType": "application/schema+json"
+    }]
+}

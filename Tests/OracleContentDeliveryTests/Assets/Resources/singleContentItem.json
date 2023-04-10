@@ -1,0 +1,59 @@
+{
+    "id": "COREF626EC6D55534DA08D5E644ED3F81DAB",
+    "type": "MyTestContentItem",
+    "name": "TestContentItem",
+    "description": "",
+    "slug": "1481786051613-fabtestcontentitem",
+    "language": "en-US",
+    "translatable": true,
+    "createdDate": {
+        "value": "2020-06-18T13:50:16.101Z",
+        "timezone": "UTC"
+    },
+    "updatedDate": {
+        "value": "2020-06-18T13:50:16.101Z",
+        "timezone": "UTC"
+    },
+    "fields": {
+        "referencefield": null,
+        "datefield": {
+            "value": "2020-06-17T00:00:00.000-06:00",
+            "timezone": "America/Denver"
+        },
+        "decimalfield": 21.12,
+        "jsonfield": {
+            "fred": true
+        },
+        "largetextfield": "blah blah blah blah blah blah blah blah",
+        "textfield": "blah",
+        "numberfield": 2112,
+        "booleanfield": true,
+        "mediafield": {
+            "id": "CONT5EEF91164D224F8099CF567B9E2BAE37",
+            "type": "DigitalAsset",
+            "name": "action.png",
+            "links": [{
+                "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONT5EEF91164D224F8099CF567B9E2BAE37?channelToken=34cd826ab32f47e2afc50b53d1c66614",
+                "rel": "self",
+                "method": "GET",
+                "mediaType": "application/json"
+            }]
+        }
+    },
+    "links": [{
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items/COREF626EC6D55534DA08D5E644ED3F81DAB?channelToken=34cd826ab32f47e2afc50b53d1c66614",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items/COREF626EC6D55534DA08D5E644ED3F81DAB?channelToken=34cd826ab32f47e2afc50b53d1c66614",
+        "rel": "canonical",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/metadata-catalog/items/COREF626EC6D55534DA08D5E644ED3F81DAB?channelToken=34cd826ab32f47e2afc50b53d1c66614",
+        "rel": "describedby",
+        "method": "GET",
+        "mediaType": "application/schema+json"
+    }]
+}

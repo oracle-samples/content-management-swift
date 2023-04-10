@@ -1,0 +1,33 @@
+{
+    "hasMore": false,
+    "offset": 0,
+    "count": 1,
+    "limit": 50,
+    "totalResults": 1,
+    "items": [{
+        "id": "E77383D9EC9C4DB0941D42BA8A5BA85B",
+        "name": "TestTaxonomy",
+        "description": "Test taxonomy 1",
+        "shortName": "FT1",
+        "createdDate": {
+            "value": "2022-12-16T15:31:06.372Z",
+            "timezone": "UTC"
+        },
+        "updatedDate": {
+            "value": "2022-12-16T15:59:34.827Z",
+            "timezone": "UTC"
+        },
+        "links": [{
+            "href": "https://someserver.com/content/published/api/v1.1/taxonomies/E77383D9EC9C4DB0941D42BA8A5BA85B?channelToken=98b9a547d9d44ea784ae4e82f84ed880",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }]
+    }],
+    "links": [{
+        "href": "https://someserver.com/content/published/api/v1.1/taxonomies?limit=50&channelToken=98b9a547d9d44ea784ae4e82f84ed880&totalResults=true&offset=0",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }]
+}

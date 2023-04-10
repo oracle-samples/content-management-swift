@@ -1,0 +1,74 @@
+{
+    "hasMore": false,
+    "offset": 0,
+    "count": 2,
+    "limit": 100,
+    "totalResults": 2,
+    "items": [{
+        "id": "CC84DFA2971342BFBB277B02AC139B3F",
+        "name": "FABTax2",
+        "shortName": "FT2",
+        "customProperties": {
+            "CustomProperty1": "CustomVal1",
+            "CustomProperty2": "CustomVal2"
+        },
+        "createdDate": {
+            "value": "2020-05-07T14:38:31.076Z",
+            "timezone": "UTC"
+        },
+        "updatedDate": {
+            "value": "2020-05-07T14:38:31.076Z",
+            "timezone": "UTC"
+        },
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/taxonomies/CC84DFA2971342BFBB277B02AC139B3F?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }]
+    }, {
+        "id": "7B56352484CA4C49B55F3FAECA6196F9",
+        "name": "FAB Taxonomy",
+        "shortName": "FAB",
+        "createdDate": {
+            "value": "2020-04-23T17:27:14.161Z",
+            "timezone": "UTC"
+        },
+        "updatedDate": {
+            "value": "2020-05-07T14:49:37.980Z",
+            "timezone": "UTC"
+        },
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/taxonomies/7B56352484CA4C49B55F3FAECA6196F9?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }]
+    }],
+    "links": [{
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/taxonomies?limit=100&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&totalResults=true&offset=0&fields=all",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/taxonomies?limit=100&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&totalResults=true&offset=0&fields=all",
+        "rel": "canonical",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/metadata-catalog/taxonomies?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+        "rel": "describedby",
+        "method": "GET",
+        "mediaType": "application/schema+json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/taxonomies?limit=100&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&totalResults=true&offset=0&fields=all",
+        "rel": "first",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/taxonomies?limit=100&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&totalResults=true&offset=0&fields=all",
+        "rel": "last",
+        "method": "GET",
+        "mediaType": "application/json"
+    }]
+}

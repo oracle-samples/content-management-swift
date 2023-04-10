@@ -1,0 +1,155 @@
+{
+    "hasMore": false,
+    "offset": 0,
+    "count": 11,
+    "limit": 11,
+    "totalResults": 11,
+    "items": [{
+        "name": "Button Notification",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CORE683CEAF70E15494487E447B1A45094EC?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CORE683CEAF70E15494487E447B1A45094EC",
+        "type": "OCE_AR_Button"
+    }, {
+        "name": "Button 2",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/COREA281922C5FA34946B4D2468E8B4A254F?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "COREA281922C5FA34946B4D2468E8B4A254F",
+        "type": "OCE_AR_Button"
+    }, {
+        "name": "Action1",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CORE474BB4E4C96948DBAB76C06D1388D1B1?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CORE474BB4E4C96948DBAB76C06D1388D1B1",
+        "type": "OCE_AR_SimpleInformation"
+    }, {
+        "name": "Model 1",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/COREC7048642B4914B749B9A7915C343C2ED?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "COREC7048642B4914B749B9A7915C343C2ED",
+        "type": "OCE_AR_Model"
+    }, {
+        "name": "Button 1",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/COREB8F17602D4E34BE08597FDB1005872FB?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "COREB8F17602D4E34BE08597FDB1005872FB",
+        "type": "OCE_AR_Button"
+    }, {
+        "name": "infoImagePlaceholder.png",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONT545AF1F53231459692942C6205A8B9C3?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT545AF1F53231459692942C6205A8B9C3",
+        "type": "DigitalAsset"
+    }, {
+        "name": "RenamedNotification.reality",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONT056331360A754795A8E63DFCA682E6EF?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT056331360A754795A8E63DFCA682E6EF",
+        "type": "DigitalAsset"
+    }, {
+        "name": "modelThumbnailPlaceholder.png",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONTF648FCFD9D414F548E9FFF0D7B3055C1?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONTF648FCFD9D414F548E9FFF0D7B3055C1",
+        "type": "DigitalAsset"
+    }, {
+        "name": "Button2.png",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONT564F0E2A14B64DA9A6A97E520A03C948?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONT564F0E2A14B64DA9A6A97E520A03C948",
+        "type": "DigitalAsset"
+    }, {
+        "name": "Button1.png",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONTA0B82B60F2A6474090315CDC013EB977?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONTA0B82B60F2A6474090315CDC013EB977",
+        "type": "DigitalAsset"
+    }, {
+        "name": "action.png",
+        "description": "",
+        "links": [{
+            "href": "http://www.foo.com:2112/content/published/api/v1.1/items/CONTB287460359D04B3BAAA898006978B29E?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        }],
+        "id": "CONTB287460359D04B3BAAA898006978B29E",
+        "type": "DigitalAsset"
+    }],
+    "links": [{
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items?limit=100&totalResults=true&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&offset=0&includeAdditionalData=true",
+        "rel": "self",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items?limit=100&totalResults=true&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&offset=0&includeAdditionalData=true",
+        "rel": "canonical",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/metadata-catalog/items?channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd",
+        "rel": "describedby",
+        "method": "GET",
+        "mediaType": "application/schema+json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items?limit=100&totalResults=true&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&offset=0&includeAdditionalData=true",
+        "rel": "first",
+        "method": "GET",
+        "mediaType": "application/json"
+    }, {
+        "href": "http://www.foo.com:2112/content/published/api/v1.1/items?limit=100&totalResults=true&channelToken=bc4e1d3f8b624f07aceb9f2ad87972bd&offset=0&includeAdditionalData=true",
+        "rel": "last",
+        "method": "GET",
+        "mediaType": "application/json"
+    }]
+}

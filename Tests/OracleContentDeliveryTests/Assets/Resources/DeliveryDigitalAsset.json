@@ -1,0 +1,221 @@
+{
+    "id": "CONT056331360A754795A8E63DFCA682E6EF",
+    "type": "Image",
+    "typeCategory": "DigitalAssetType",
+    "name": "Blog_6_Header_1440x540px.jpg",
+    "description": "This is a test description",
+    "slug": "1481786088643-blog_6_header_1440x540px",
+    "translatable": false,
+    "createdDate": {
+        "value": "2020-04-01T21:12:12.045Z",
+        "timezone": "UTC"
+    },
+    "updatedDate": {
+        "value": "2022-11-18T22:01:07.495Z",
+        "timezone": "UTC"
+    },
+    "fileExtension": "jpg",
+    "fields": {
+        "metadata": {
+            "width": "1440",
+            "height": "540"
+        },
+        "size": 528070,
+        "native": {
+            "links": [
+                {
+                    "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/native/Blog_6_Header_1440x540px.jpg?channelToken=47c9fb78774d4485bc7090bf7b955632",
+                    "rel": "self",
+                    "method": "GET",
+                    "mediaType": "image/jpeg"
+                }
+            ]
+        },
+        "renditions": [
+            {
+                "name": "Thumbnail",
+                "formats": [
+                    {
+                        "format": "jpg",
+                        "size": 5242,
+                        "mimeType": "image/jpeg",
+                        "metadata": {
+                            "width": "150",
+                            "height": "56"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Thumbnail/Blog_6_Header_1440x540px.jpg?format=jpg&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/jpeg"
+                            }
+                        ]
+                    },
+                    {
+                        "format": "webp",
+                        "size": 0,
+                        "mimeType": "image/webp",
+                        "metadata": {
+                            "width": "150",
+                            "height": "56"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Thumbnail/Blog_6_Header_1440x540px.jpg?format=webp&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/webp"
+                            }
+                        ]
+                    }
+                ],
+                "type": "responsiveimage"
+            },
+            {
+                "name": "Medium",
+                "formats": [
+                    {
+                        "format": "jpg",
+                        "size": 0,
+                        "mimeType": "image/jpeg",
+                        "metadata": {
+                            "width": "1024",
+                            "height": "384"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Medium/Blog_6_Header_1440x540px.jpg?format=jpg&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/jpeg"
+                            }
+                        ]
+                    },
+                    {
+                        "format": "webp",
+                        "size": 0,
+                        "mimeType": "image/webp",
+                        "metadata": {
+                            "width": "1024",
+                            "height": "384"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Medium/Blog_6_Header_1440x540px.jpg?format=webp&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/webp"
+                            }
+                        ]
+                    }
+                ],
+                "type": "responsiveimage"
+            },
+            {
+                "name": "Large",
+                "formats": [
+                    {
+                        "format": "jpg",
+                        "size": 528070,
+                        "mimeType": "image/jpeg",
+                        "metadata": {
+                            "width": "1440",
+                            "height": "540"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Large/Blog_6_Header_1440x540px.jpg?format=jpg&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/jpeg"
+                            }
+                        ]
+                    },
+                    {
+                        "format": "webp",
+                        "size": 0,
+                        "mimeType": "image/webp",
+                        "metadata": {
+                            "width": "1440",
+                            "height": "540"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Large/Blog_6_Header_1440x540px.jpg?format=webp&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/webp"
+                            }
+                        ]
+                    }
+                ],
+                "type": "responsiveimage"
+            },
+            {
+                "name": "Small",
+                "formats": [
+                    {
+                        "format": "jpg",
+                        "size": 0,
+                        "mimeType": "image/jpeg",
+                        "metadata": {
+                            "width": "300",
+                            "height": "112"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Small/Blog_6_Header_1440x540px.jpg?format=jpg&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/jpeg"
+                            }
+                        ]
+                    },
+                    {
+                        "format": "webp",
+                        "size": 0,
+                        "mimeType": "image/webp",
+                        "metadata": {
+                            "width": "300",
+                            "height": "112"
+                        },
+                        "links": [
+                            {
+                                "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/assets/CONT32007221B8CE408DBBE9002DB4C4A6AA/Small/Blog_6_Header_1440x540px.jpg?format=webp&type=responsiveimage&channelToken=47c9fb78774d4485bc7090bf7b955632",
+                                "rel": "self",
+                                "method": "GET",
+                                "mediaType": "image/webp"
+                            }
+                        ]
+                    }
+                ],
+                "type": "responsiveimage"
+            }
+        ],
+        "mimeType": "image/jpeg",
+        "fileType": "jpeg"
+    },
+    "mimeType": "image/jpeg",
+    "fileGroup": "Images",
+    "links": [
+        {
+            "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/items/CONT32007221B8CE408DBBE9002DB4C4A6AA?channelToken=47c9fb78774d4485bc7090bf7b955632",
+            "rel": "self",
+            "method": "GET",
+            "mediaType": "application/json"
+        },
+        {
+            "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/items/CONT32007221B8CE408DBBE9002DB4C4A6AA?channelToken=47c9fb78774d4485bc7090bf7b955632",
+            "rel": "canonical",
+            "method": "GET",
+            "mediaType": "application/json"
+        },
+        {
+            "href": "https://samples.mycontentdemo.com/content/published/api/v1.1/metadata-catalog/items/CONT32007221B8CE408DBBE9002DB4C4A6AA?channelToken=47c9fb78774d4485bc7090bf7b955632",
+            "rel": "describedby",
+            "method": "GET",
+            "mediaType": "application/json"
+        }
+    ]
+}
